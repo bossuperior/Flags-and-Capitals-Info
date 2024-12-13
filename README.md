@@ -15,3 +15,4 @@ const url = "https://restcountries.com/v2/all"
 - [x] The results are displayed with flag images and capital information.
 
 **Screenshot (GIF)**
+![brave_deonDil1Fi](https://github.com/user-attachments/assets/eb20fbd0-2d6b-4f47-8d64-ed617a5460c3)
